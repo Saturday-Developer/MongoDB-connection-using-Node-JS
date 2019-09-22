@@ -1,3 +1,3 @@
 use npm i
 
-replace username and password inside DB/Connection.js
+enter your URI string  inside DB/Connection.js
